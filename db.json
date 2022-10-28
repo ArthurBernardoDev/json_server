@@ -4,18 +4,21 @@
       "id": 1,
       "name": "NextJs",
       "description": "Nesse curso você vai aprender a desenvolver um checkout com nexjs13",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Finformacaotech.com%2Fwp-content%2Fuploads%2Fnextjs-pm2-server.png&imgrefurl=https%3A%2F%2Finformacaotech.com%2Fexecutando-uma-aplicacao-next-js-com-pm2-e-yarn-no-ubuntu-server%2F&tbnid=tYH2z8wiyCJGTM&vet=12ahUKEwjn-cX86IP7AhWdD7kGHbO2CCwQMygBegUIARC6AQ..i&docid=TkBnIWFp7bCkuM&w=1000&h=571&q=image%20Nextjs&ved=2ahUKEwjn-cX86IP7AhWdD7kGHbO2CCwQMygBegUIARC6AQ",
       "price": 900
     },
     {
       "id": 2,
       "name": "ReactJs",
       "description": "Fundamentos do ReactJs, dominando hooks, contextos e chamadas api",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Freactjs.org%2F&psig=AOvVaw0GLGoUvwvQlpDu2kHGt9xW&ust=1667077324717000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDO6Y_pg_sCFQAAAAAdAAAAABAE",
       "price": 150
     },
     {
       "id": 3,
       "name": "Node",
       "description": "Fundamentos do node com express, dominando Nest e postgressql",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.opus-software.com.br%2Fnode-js%2F&psig=AOvVaw22bD4YEN6ZeIkPmJKjeq_d&ust=1667077360196000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCICg1aDpg_sCFQAAAAAdAAAAABAE",
       "price": 150
     }
   ]
