@@ -1,25 +1,16 @@
 {
   "course": [
     {
-      "id": 1,
-      "name": "NextJs",
-      "description": "Nesse curso você vai aprender a desenvolver um checkout com nexjs13",
-      "image": "https://informacaotech.com/wp-content/uploads/nextjs-pm2-server-752x440.png",
-      "price": 900
+      "name": "NextJs"
+
     },
     {
-      "id": 2,
-      "name": "ReactJs",
-      "description": "Fundamentos do ReactJs, dominando hooks, contextos e chamadas api",
-      "image": "https://reactjs.org/logo-og.png",
-      "price": 150
+      "name": "ReactJs"
+  
     },
     {
-      "id": 3,
-      "name": "Node",
-      "description": "Fundamentos do node com express, dominando Nest e postgressql",
-      "image": "https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg",
-      "price": 150
+      "name": "Node"
+     
     }
   ]
 }
